@@ -5,10 +5,10 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/fpistm/fpistm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fpistm&show_icons=true&theme=blueberry" />
+  <img align="center" src="https://github-readme-stats-fpistm.vercel.app/api/top-langs/?username=fpistm&show_icons=true&theme=blueberry" />
 </a>
 <a href="https://github.com/fpistm/fpistm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fpistm&show_icons=true&count_private=true&include_all_commits=true&theme=blueberry" alt="fpistm's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-fpistm.vercel.app/api?username=fpistm&show_icons=true&count_private=true&include_all_commits=true&theme=blueberry" alt="fpistm's GitHub Stats" />
 </a>
 
 
