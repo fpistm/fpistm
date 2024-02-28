@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-  ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=fpistm.fpistm)
-  
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/fpistm/fpistm">
