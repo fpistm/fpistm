@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8a391881-0cfe-4de4-86e9-c515acef7bc6" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+https://www.credly.com/badges/8a391881-0cfe-4de4-86e9-c515acef7bc6/public_url
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/fpistm/fpistm">
